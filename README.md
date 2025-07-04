@@ -21,7 +21,7 @@ The system classifies news headlines as either **Real News** ✅ or **Fake News*
 
 ## 💻 How to Run the Project
 
-### 1️⃣ Clone this Repository:
+1️⃣ Clone this Repository:
 ```bash
 git clone https://github.com/Madhuraaa22/fake-news-detection.git
 cd fake-news-detection
@@ -55,7 +55,10 @@ Prediction: Fake News
 
 ✅ Try advanced models like Naive Bayes, SVM, or Transformers.
 
-📌 Author
+
+
+
+## 📌 Author
 Madhura Tembe
 📧 madhuratembe13@gmail.com
 📍 Navi Mumbai, India
